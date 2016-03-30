@@ -1,0 +1,7 @@
+PIL
+pyscreenshot
+cStringIO
+google-api-python-client
+base64
+os
+oauth2client
